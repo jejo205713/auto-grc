@@ -55,6 +55,7 @@ class GRCAuditTool:
         return run_command("ls -l /var/log/ | grep -E 'syslog|auth.log|secure'")
     
     def check_vulnerabilities(self):
+        #Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
         return run_command("sudo lynis audit system --quick | grep -i warning", timeout=20)
     
     def check_exploitable_services(self):
@@ -127,4 +128,9 @@ class GRCAuditTool:
 if __name__ == "__main__":
     audit_tool = GRCAuditTool()
     audit_tool.generate_report()
+    #Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
+
+
+#Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
+
 
