@@ -25,9 +25,10 @@ pip install numpy scikit-learn pandas matplotlib seaborn
 ## 🎯 Usage
 ### **Run the Security Audit**
 ```bash
-python3 grc-tool.py
+python3 grc-v4.py
 ```
 ### **Output**
+![Output](https://github.com/jejo205713/auto-gcr/raw/main/Output.png)
 - The tool prints **detected vulnerabilities** and **recommended fixes**.
 - A detailed JSON report is saved as **`audit_report.json`**.
 
