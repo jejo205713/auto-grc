@@ -1,0 +1,24 @@
+{
+    "Vulnerabilities": [
+        "Firewall Status is at risk (Score: 3/5).",
+        "Open Ports is at risk (Score: 4/5).",
+        "Disk Encryption is at risk (Score: 4/5).",
+        "Vulnerabilities is at risk (Score: 5/5).",
+        "Exploitable Services is at risk (Score: 5/5)."
+    ],
+    "Recommendations": [
+        "Mitigate Firewall Status risk by applying recommended security measures.",
+        "Mitigate Open Ports risk by applying recommended security measures.",
+        "Mitigate Disk Encryption risk by applying recommended security measures.",
+        "Mitigate Vulnerabilities risk by applying recommended security measures.",
+        "Mitigate Exploitable Services risk by applying recommended security measures."
+    ],
+    "Risk Scores": {
+        "Firewall Status": 3,
+        "SSH Configuration": 1,
+        "Open Ports": 4,
+        "Disk Encryption": 4,
+        "Vulnerabilities": 5,
+        "Exploitable Services": 5
+    }
+}
