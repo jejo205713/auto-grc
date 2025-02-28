@@ -129,8 +129,6 @@ if __name__ == "__main__":
     audit_tool = GRCAuditTool()
     audit_tool.generate_report()
     #Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
-
-
-#Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
+    #Q29kZSBieSBKRUpPIEogJiBHUkVFU0hNQSBZQVNITUkK
 
 
